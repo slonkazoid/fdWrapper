@@ -1,0 +1,22 @@
+{
+	"name": "fd-wrapper",
+	"version": "0.1.0",
+	"description": "A wrapper for FormData-like structures to use them like plain objects.",
+	"main": "fdWrapper.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/uAliFurkanY/fd-wrapper.git"
+	},
+	"keywords": [
+		"node.js"
+	],
+	"author": "Ali Furkan YILDIZ",
+	"license": "GPL-3.0",
+	"bugs": {
+		"url": "https://github.com/uAliFurkanY/fd-wrapper/issues"
+	},
+	"homepage": "https://github.com/uAliFurkanY/fd-wrapper#readme"
+}
